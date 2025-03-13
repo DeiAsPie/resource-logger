@@ -62,7 +62,3 @@ The script generates CSV files with the following columns:
 2023-10-15 14:25:31,15.7,1542,2250,3792
 2023-10-15 14:25:32,18.3,1545,2247,3792
 ```
-
-## License
-
-[MIT License](LICENSE)
